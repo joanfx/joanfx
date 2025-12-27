@@ -1,16 +1,24 @@
-## Hi there 👋
+# Professional Summary 🛡️
+Cybersecurity AAS student pivoting into Penetration Testing. Currently focused on network forensics, access control management, and building a solid foundation for offensive security.
 
-<!--
-**joanfx/joanfx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Technical Certifications 📜
+* CompTIA Security+ (Scheduled: Jan 21, 2026)
+* Google Cybersecurity Professional Certificate 
 
-Here are some ideas to get you started:
+# Security Analyst Toolkit (Featured Labs) 🛠️
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Network Forensics & Traffic Analysis
+### network-traffic-forensics
+Performed deep packet inspection (DPI) using Wireshark to dissect TCP/IP, DNS, and HTTP protocols. Isolated indicators of compromise (IoC) through advanced display filters and payload inspection.
+
+## Identity & Access Management (IAM)
+### linux-permission-hardening-lab
+Enforced the Principle of Least Privilege by auditing and remediating over-permissive Linux file structures. Utilized chmod and ls -l to harden system assets against unauthorized modification.
+
+## Security Data Mining & Incident Investigation
+### sql-security-filtering-analysis
+Applied Boolean logic and multi-condition SQL queries to isolate authentication anomalies. Investigated geofencing violations and brute-force patterns within large-scale security logs.
+
+## Relational Data Correlation & Asset Auditing
+### sql-asset-correlation-audit
+Utilized SQL JOINS to correlate disparate datasets for hardware inventory management. Identified unregistered devices and unassigned assets to eliminate organizational security gaps.
