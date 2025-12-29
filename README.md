@@ -1,5 +1,7 @@
 # Professional Summary 🛡️
-Cybersecurity AAS student pivoting into Penetration Testing. Currently focused on network forensics, access control management, and building a solid foundation for offensive security.
+Aspiring Penetration Tester | Security Analyst
+
+Currently focused on network forensics, access control management, and building a solid foundation for offensive security.
 
 # Technical Certifications 📜
 * CompTIA Security+ (Scheduled: Jan 21, 2026)
