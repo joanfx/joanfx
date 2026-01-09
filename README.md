@@ -4,7 +4,7 @@ Aspiring Penetration Tester | Security Analyst
 Currently focused on network forensics, access control management, and building a solid foundation for offensive security.
 
 # Technical Certifications 📜
-* CompTIA Security+ (Scheduled: Jan 5, 2026)
+* CompTIA Security+
 * Google Cybersecurity Professional Certificate 
 
 # Security Analyst Toolkit (Featured Labs) 🛠️
